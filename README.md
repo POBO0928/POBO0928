@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm POBO</h1>
-<h3 align="center">目前擔任 養老伺服器的管理員，期許是能成為程式工程師以及學好日文。</h3>
+<h3 align="center">期許是能成為程式工程師以及學好日文。</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pobo0928&label=Profile%20views&color=0e75b6&style=flat" alt="pobo0928" /> </p>
 
